@@ -40,7 +40,7 @@ jobs:
         aws_access_key: AKIA6RDKHVG7H6MUZ4HA
         aws_secret_key: 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
         application_name: MyApplicationName
-        environment_name: MyApplication-Environment
+        environment_name: Myapplicationname-env
         version_label: 12345
         region: ap-south-1
         deployment_package: deploy.zip
