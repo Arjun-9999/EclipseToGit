@@ -45,3 +45,4 @@ jobs:
         use_existing_version_if_available: true
         region: ap-south-1
         deployment_package: target/EclipseToGit-1-0.0.1-SNAPSHOT.war
+        wait_for_deployment: false
