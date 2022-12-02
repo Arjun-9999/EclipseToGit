@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EclipseToGit1Application {
 
 	public static void main(String[] args) {
-		System.out.println(" ***************  A  Ayyappa swamy  ayyappo ");
+		System.out.println(" ***************  A  Ayyappa swamy  ayyappo  swamy");
 		SpringApplication.run(EclipseToGit1Application.class, args);
 	}
 
